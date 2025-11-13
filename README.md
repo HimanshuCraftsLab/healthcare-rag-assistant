@@ -3,6 +3,9 @@
 A Retrieval-Augmented Generation (RAG) system to extract, index, and provide factual answers from clinical and regulatory documents (PDF/HTML/CSV/Excel). Built as a student project demonstrating system design, product thinking, and end-to-end implementation.
 
 
+<img alt="diagram" src="./diagram.png" />
+
+
 ## 🔍 Overview
 - Upload multi-format documents (PDF, HTML, TXT, CSV, XLSX).
 - Extract and chunk text, generate embeddings, store in FAISS, and perform semantic retrieval.
