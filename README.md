@@ -4,6 +4,9 @@ A Retrieval-Augmented Generation (RAG) system to extract, index, and provide fac
 
 ![Architecture Diagram](architecture-diagram.png)
 
+![Uploading image.png…]()
+
+
 ## 🔍 Overview
 - Upload multi-format documents (PDF, HTML, TXT, CSV, XLSX).
 - Extract and chunk text, generate embeddings, store in FAISS, and perform semantic retrieval.
