@@ -3,7 +3,7 @@
 A Retrieval-Augmented Generation (RAG) system to extract, index, and provide factual answers from clinical and regulatory documents (PDF/HTML/CSV/Excel). Built as a student project demonstrating system design, product thinking, and end-to-end implementation.
 
 
-<img alt="diagram" src="./diagram.png" />
+<img width='200' alt="diagram" src="./diagram.png" />
 
 
 ## 🔍 Overview
