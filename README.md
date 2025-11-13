@@ -2,9 +2,6 @@
 
 A Retrieval-Augmented Generation (RAG) system to extract, index, and provide factual answers from clinical and regulatory documents (PDF/HTML/CSV/Excel). Built as a student project demonstrating system design, product thinking, and end-to-end implementation.
 
-![Architecture Diagram](diagram.png)
-
-
 
 ## 🔍 Overview
 - Upload multi-format documents (PDF, HTML, TXT, CSV, XLSX).
@@ -44,15 +41,3 @@ app/healthcare_rag_app_main.py — main Streamlit app
 architecture-diagram.png — system diagram
 rfc-notes.md — RFC-style notes and decisions
 
-ℹ️ Notes & Caution
-Do not commit any .env or API keys. Remove .env before pushing. If you find an API key in the attached .env, please notify me to rotate it.
-This repository is meant as a demonstration. For productionization, see TODOs in rfc-notes.md.
-
-📄 License
-MIT License — see LICENSE file.
-
-🔗 Links
-LinkedIn: <YOUR_LINKEDIN_URL>
-GitHub profile: <YOUR_GITHUB_URL>
-
-*(Replace `<your-username>`, `<YOUR_LINKEDIN_URL>`, and `<YOUR_GITHUB_URL>` with the appropriate values; ask me if you need.)*
